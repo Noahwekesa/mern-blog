@@ -1,0 +1,19 @@
+{
+  "name": "mern-blog",
+  "version": "1.0.0",
+  "description": "mern app - fullstack blog app",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "github.com/noahwekesa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  }
+}
